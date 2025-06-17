@@ -1,7 +1,7 @@
 # Passport application system
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212223110041
+# Name: Reklies J
+# Date: 25.05.2025
 
 
 # AIM:
@@ -38,10 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/a1547a71-5d0a-49df-b6f5-782a21aabceb)
 
 
 # CLASS DIAGRAM
@@ -59,6 +56,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+![image](https://github.com/user-attachments/assets/d3208450-42fe-4900-8697-20bc168df9eb)
 
 # COMMUNICTION DIAGRAM:
 
@@ -66,6 +64,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+![image](https://github.com/user-attachments/assets/b97f483b-0190-4b81-9cf9-71c1f7bbf7fd)
 
 
 
@@ -80,6 +79,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+![image](https://github.com/user-attachments/assets/71c287cf-0365-4af7-8eb2-7379a8303733)
 
 
 
@@ -97,6 +97,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![image](https://github.com/user-attachments/assets/8753c1eb-8b8b-4173-a649-e22dc15fef8e)
 
 
 
@@ -119,6 +120,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+![image](https://github.com/user-attachments/assets/e3d6cff1-4249-4813-921d-5714a0acbd46)
 
 
 
